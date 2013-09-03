@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/if188/AndroidStudioProjects/WG-Einkaufszettel/MyEinkaufszettel/WG-Einkaufszettel/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/if188/AndroidStudioProjects/WG-Einkaufszettel/MyEinkaufszettel/WG-Einkaufszettel/src/debug/assets" />
+    </dataSet>
+
+</merger>

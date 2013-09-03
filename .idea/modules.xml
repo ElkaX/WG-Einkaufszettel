@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyEinkaufszettel.iml" filepath="$PROJECT_DIR$/MyEinkaufszettel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WG-Einkaufszettel/WG-Einkaufszettel.iml" filepath="$PROJECT_DIR$/WG-Einkaufszettel/WG-Einkaufszettel.iml" />
+    </modules>
+  </component>
+</project>
+
